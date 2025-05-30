@@ -2,4 +2,5 @@ streamlit
 pandas
 rdkit
 mordred
-autogluon
+autogluon==1.2.0
+
